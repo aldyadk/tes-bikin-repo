@@ -1,3 +1,3 @@
 // alert(`hello dunia!`)
 // new line
-// new line
+// new line,NaN
